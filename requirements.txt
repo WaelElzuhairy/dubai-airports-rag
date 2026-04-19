@@ -1,0 +1,8 @@
+python-docx
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+torch
+gradio
+numpy

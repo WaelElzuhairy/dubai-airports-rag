@@ -36,7 +36,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers passenger questions 
 **Requirements:** Python 3.9+, ~4 GB disk space (for Phi-2 model download)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dubai-airports-rag.git
+git clone https://github.com/WaelElzuhairy/dubai-airports-rag.git
 cd dubai-airports-rag
 pip install -r requirements.txt
 ```
